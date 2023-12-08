@@ -60,7 +60,7 @@ header h3{
 }
 .skills h3{
     font-family: 'Rubik', sans-serif;
-    padding-left: 40px;
+    
 }
 .skills li{
     list-style: none;
@@ -108,7 +108,7 @@ header h3{
 }
 
 .skills_css ul{
-    margin-top: -150px;
+    margin-top: -170px;
 }
 .skills_css li{
     font-size: 17px;
